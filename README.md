@@ -1,4 +1,6 @@
 # MarmetoEcommerce
+This project is a simple e-commerce layout designed to display products across different categories. It includes basic functionalities like tab switching to view products in different categories and product cards showcasing essential information about each item.
+
 
 Tab Switching Layout
 
